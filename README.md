@@ -3,7 +3,7 @@
 
 ### “Ruang Bernilai untuk Karya Kayu Nusantara”
 
-**Ruwang Kayue** adalah platform e-commerce berbasis Laravel, yang kami bangun sebagai ruang digital bagi para pengrajin dan pelaku usaha lokal — khususnya yang berkarya di dunia **kerajinan, peralatan, dan furnitur kayu berkualitas**.  Nama “Ruwang” berasal dari Bahasa Jawa yang berarti “ruang”, melambangkan misi kami visi kami sebagai ruang berkarya, ruang bertumbuh, dan ruang apresiasi untuk semua karya berbahan kayu dari tangan-tangan lokal Indonesia.
+**Ruwang Kayue** adalah platform e-commerce berbasis Laravel, yang kami bangun sebagai ruang digital bagi para pengrajin dan pelaku usaha lokal, khususnya yang berkarya di dunia **kerajinan, peralatan, dan furnitur kayu berkualitas**.  Nama “Ruwang” berasal dari Bahasa Jawa yang berarti “ruang”, melambangkan misi kami visi kami sebagai ruang berkarya, ruang bertumbuh, dan ruang apresiasi untuk semua karya berbahan kayu dari tangan-tangan lokal Indonesia.
 
 ---
 
