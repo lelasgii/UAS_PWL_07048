@@ -1,0 +1,93 @@
+
+
+body{
+    min-height: 100vh;
+}
+
+.landingPage{
+    min-height: 100vh;
+    font-family: "Roboto", sans-serif;
+}
+
+.brandTitle{
+    font-size: 7rem;
+    color: #994D1C;
+    letter-spacing: -2px;
+}
+
+.sansita{
+    display: inline-block;
+    font-family: "Sansita Swashed", system-ui;
+    transform: rotate(-10deg);
+}
+
+
+input[type="date"]::-webkit-calendar-picker-indicator {
+    opacity: 0;
+}
+
+@media (min-width: 992px) {
+    .col-lg-2-4 {
+        flex: 0 0 20%;
+        max-width: 20%;
+    }
+}
+
+.thumbnail-img.active-thumb {
+            border: 2px solid #994D1C !important;
+        }
+
+        .variation-img.active-variation {
+    border: 2px solid #994D1C !important;
+}
+
+    .cart-overlay {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100vh;
+        background: rgba(0, 0, 0, 0.4);
+        z-index: 1049;
+    }
+
+    .cart-sidebar {
+        position: fixed;
+        top: 0;
+        right: 0;
+        width: 400px;
+        height: 100vh;
+        background: #fff;
+        z-index: 1050;
+        overflow-y: auto;
+        transform: translateX(100%);
+        transition: transform 0.3s ease-in-out;
+        border-left: 1px solid #F5CCA0;
+    }
+
+    .cart-sidebar.show {
+        transform: translateX(0);
+    }
+
+    #qrisSection, #creditCardList {
+    transition: all 0.3s ease-in-out;
+}
+
+    .btn-tab.active {
+        font-weight: bold;
+        color: #994D1C;
+        text-decoration: underline;
+    }
+
+
+    #mainImage {
+    transition: opacity 0.3s ease-in-out;
+}
+
+    #mainImage.fade-out {
+        opacity: 0;
+    }
+
+    #mainImage.fade-in {
+        opacity: 1;
+    }
